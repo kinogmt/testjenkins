@@ -7,6 +7,7 @@ test jenkins
 
 ## part2
 - test0
+- test2
 
 ## part3
 - test0
