@@ -3,7 +3,6 @@ test jenkins
 
 ## part1
 - test0
-- test1
 
 ## part2
 - test0
